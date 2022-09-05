@@ -6,6 +6,8 @@ int main()
 
 	std::cout << "이건 다시한거" << std::endl;
 
+	std::cout << "집에서 수정" << std::endl;
+
 
 		return 0;
 
