@@ -8,6 +8,8 @@ int main()
 
 	std::cout << "집에서 수정" << std::endl;
 
+	std::cout << "MyPown" << std::endl;
+
 
 		return 0;
 
